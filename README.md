@@ -15,3 +15,7 @@ Il calcolatore avanzato è più complesso e restituisce più valori
 ----------------------------------------
 per scaricare fare click sull'eseguibile > tre puntini in alto a sinistra> download. Oppure scaricare tutta la cartella come archivio zip cliccando sul tasto verde code > download zip
 
+----------------------------------------
+
+in caso l'eseguibile non funzioni, incollare il codice su [gdbonline](https://www.onlinegdb.com/online_c++_compiler)
+
